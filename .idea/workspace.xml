@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd3d4d3e-65b6-4b1b-80eb-9f20c2cf99fc" name="Default" comment="" />
+    <list default="true" id="fd3d4d3e-65b6-4b1b-80eb-9f20c2cf99fc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +36,9 @@
       <find>list(</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -42,6 +47,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Ss35g4haa6nfS5z1LdXlkP6GaC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -156,11 +162,28 @@
       <workItem from="1572501838105" duration="1214000" />
       <workItem from="1572584850381" duration="22000" />
       <workItem from="1572584923271" duration="648000" />
-      <workItem from="1572619451790" duration="3033000" />
+      <workItem from="1572619451790" duration="3645000" />
+      <workItem from="1572855600195" duration="213000" />
+      <workItem from="1573111481586" duration="243000" />
+      <workItem from="1573140442821" duration="135000" />
+      <workItem from="1573490518557" duration="868000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

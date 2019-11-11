@@ -28,15 +28,8 @@ public class DailyReportService {
         return new DailyReportDao(sessionFactory.openSession()).getAllDailyReport();
     }
 
-//    public void insertToReport(long carPrice) {
-//        DailyReport currentReport = getCurrentReport();
-//        new DailyReportDao(sessionFactory.openSession()).insertToReport(currentReport, carPrice);
-//
-//    }
 public void insertToReport(long carPrice) {
-        //DailyReport currentReport = getCurrentReport();
         new DailyReportDao(sessionFactory.openSession()).insertToReport(carPrice);
-
     }
 
     public DailyReport getLastReport() {
